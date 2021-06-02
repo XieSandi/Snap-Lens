@@ -3,7 +3,7 @@
     "document_id": "1dcDO4P0CJitPJ0pMfym",
     "original_document_id": "DlgS-HW5JEU_mLq_inXF",
     "version": "27",
-    "lastChanged": "1622611694020",
+    "lastChanged": "1622615072140",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -30,6 +30,12 @@
         "ResourceUiComponent": {
             "collapsedList": [
                 [
+                    [
+                        "444491__breviceps__short-choir"
+                    ],
+                    [
+                        "60571_gabemiller74_breathofdeath (online-audio-converter"
+                    ],
                     [
                         "Angel"
                     ],
@@ -85,9 +91,6 @@
                         "Portrait Background Segmentation"
                     ],
                     [
-                        "Script Graph"
-                    ],
-                    [
                         "angle crown"
                     ],
                     [
@@ -114,8 +117,7 @@
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1622436002241561:14803",
-                    "1622610636123862:323132"
+                    "1622436002241561:14803"
                 ]
             ]
         },
@@ -123,9 +125,9 @@
             "icon_hash": "56814dbefc6c60009fe6066406087653",
             "icon_path": "icon.png",
             "hints": [
-                ""
+                "lens_hint_tap"
             ],
-            "lens": "Efek Hijau",
+            "lens": "Angel adn Devil",
             "applicability": "3",
             "lens_descriptors": ""
         },
@@ -172,7 +174,7 @@
             "active_graph_asset": "-1:-1"
         },
         "Script::UiComponent": {
-            "active_graph_asset": "1622611120319735:385711"
+            "active_graph_asset": "1622612048259951:570659"
         }
     },
     "model": {
@@ -283,14 +285,6 @@
                     "flags": "0"
                 },
                 {
-                    "resId": "27",
-                    "uid": "1622611120319735:385711",
-                    "name": "Files\/File34",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "28",
                     "uid": "1622611589121468:442067",
                     "name": "Angel",
@@ -305,6 +299,30 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1622612048259951:570659",
+                    "name": "Files\/File40",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1622614436556722:850925",
+                    "name": "Files\/File42.wav",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1622614541279297:863877",
+                    "name": "Files\/File44.wav",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -339,7 +357,10 @@
                 "8": "1622610636123862:323132",
                 "9": "1622610646266779:324034",
                 "10": "1622610646270866:324036",
-                "11": "1622610770182358:339865"
+                "11": "1622610770182358:339865",
+                "12": "1622612504958134:621022",
+                "13": "1622612579154399:632332",
+                "14": "1622613436073610:729110"
             }
         },
         "LayerComponent": {
@@ -461,14 +482,6 @@
                     "v": "Files\/File33.oprfb"
                 },
                 {
-                    "k": "34",
-                    "v": "Files\/File34"
-                },
-                {
-                    "k": "35",
-                    "v": "Files\/File35.lsscript"
-                },
-                {
                     "k": "36",
                     "v": "Files\/File36.oprfb"
                 },
@@ -483,6 +496,22 @@
                 {
                     "k": "39",
                     "v": "Files\/File39.oprfb"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.lsscript"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.wav"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.wav"
                 }
             ]
         },
@@ -528,16 +557,24 @@
                         "v": "angle crown.fbx"
                     },
                     {
-                        "k": "978",
-                        "v": "Script Graph.lsscript"
-                    },
-                    {
                         "k": "979",
                         "v": "Angel.oprfb"
                     },
                     {
                         "k": "980",
                         "v": "Demon.oprfb"
+                    },
+                    {
+                        "k": "7754",
+                        "v": "tap to change.lsscript"
+                    },
+                    {
+                        "k": "7755",
+                        "v": "444491__breviceps__short-choir.wav"
+                    },
+                    {
+                        "k": "7757",
+                        "v": "60571_gabemiller74_breathofdeath (online-audio-converter.wav"
                     }
                 ],
                 "hashes": [
@@ -595,25 +632,55 @@
                     },
                     {
                         "k": "979",
-                        "v": "214de0cc7238e6698584a341024c5bc2"
+                        "v": "0f4926a8f25705a142e015b53182157b"
                     },
                     {
                         "k": "980",
                         "v": "b5458b5a0c6d15ec96341b6a449aeeb3"
+                    },
+                    {
+                        "k": "7754",
+                        "v": "cba6f9b7bedc5491003a3c01e21b0692"
+                    },
+                    {
+                        "k": "7755",
+                        "v": "059b2bfd45ce18af91184747fbd304fa"
+                    },
+                    {
+                        "k": "7756",
+                        "v": "e0c87101d9aa6e6b4e61e303acb0f4f9"
+                    },
+                    {
+                        "k": "7757",
+                        "v": "fe807d7e8fea7e70aac20334b5c792f0"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2021-06-02T12:27:00",
+                        "lastModified": "2021-06-02T13:20:45",
                         "name": "Public",
-                        "hash": "437c632b5ee44e17332ecbc40e04b5d1",
+                        "hash": "9676a6fd961e75967eea97dd1731119c",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2021-06-02T12:26:29",
+                                "lastModified": "2021-06-02T13:13:33",
+                                "name": "444491__breviceps__short-choir.wav",
+                                "hash": "059b2bfd45ce18af91184747fbd304fa",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-06-02T13:15:35",
+                                "name": "60571_gabemiller74_breathofdeath (online-audio-converter.wav",
+                                "hash": "fe807d7e8fea7e70aac20334b5c792f0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-06-02T13:20:45",
                                 "name": "Angel.oprfb",
-                                "hash": "214de0cc7238e6698584a341024c5bc2",
+                                "hash": "0f4926a8f25705a142e015b53182157b",
                                 "children": ""
                             },
                             {
@@ -674,9 +741,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2021-06-02T12:26:58",
-                                "name": "Script Graph.lsscript",
-                                "hash": "7e331d503a61bb78beaf41d97cdb0ede",
+                                "lastModified": "2021-04-06T06:10:40",
+                                "name": "tap to change.lsscript",
+                                "hash": "494eedf4f72b5b66abb42e77205506db",
                                 "children": ""
                             }
                         ]
@@ -998,19 +1065,6 @@
                         ]
                     },
                     {
-                        "name": "Script Graph",
-                        "type": "4",
-                        "subtype": "1",
-                        "resourceId": "27",
-                        "dependency": "0",
-                        "uid": "1622611120319735:385711",
-                        "fileId": "34",
-                        "originalId": "35",
-                        "publicId": "978",
-                        "source": "C:\/Users\/Yue_X\/AppData\/Local\/Temp\/Lens Studio-rOKKzr\/\/system\/\/emergencyFiles\/emergencyGraph.lsscript",
-                        "additional": ""
-                    },
-                    {
                         "name": "Angel",
                         "type": "12",
                         "subtype": "-1",
@@ -1035,6 +1089,45 @@
                         "publicId": "980",
                         "source": "",
                         "additional": ""
+                    },
+                    {
+                        "name": "tap to change",
+                        "type": "4",
+                        "subtype": "1",
+                        "resourceId": "30",
+                        "dependency": "0",
+                        "uid": "1622612048259951:570659",
+                        "fileId": "40",
+                        "originalId": "41",
+                        "publicId": "7754",
+                        "source": "C:\/Users\/Yue_X\/AppData\/Local\/Temp\/Lens Studio-xSNBKu\/\/system\/\/emergencyFiles\/emergencyGraph.lsscript",
+                        "additional": ""
+                    },
+                    {
+                        "name": "444491__breviceps__short-choir",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "31",
+                        "dependency": "0",
+                        "uid": "1622614436556722:850925",
+                        "fileId": "42",
+                        "originalId": "18446744073709551615",
+                        "publicId": "7755",
+                        "source": "C:\/Users\/Yue_X\/Downloads\/444491__breviceps__short-choir.wav",
+                        "additional": ""
+                    },
+                    {
+                        "name": "60571_gabemiller74_breathofdeath (online-audio-converter",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "33",
+                        "dependency": "0",
+                        "uid": "1622614541279297:863877",
+                        "fileId": "44",
+                        "originalId": "18446744073709551615",
+                        "publicId": "7757",
+                        "source": "C:\/Users\/Yue_X\/Downloads\/60571_gabemiller74_breathofdeath (online-audio-converter.com).wav",
+                        "additional": ""
                     }
                 ]
             }
@@ -1042,7 +1135,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "101:100"
+                    "1622610636123862:323132"
                 ]
             }
         },
@@ -1192,6 +1285,14 @@
                                 {
                                     "k": "1622610975066954:365806",
                                     "v": "1622610975066954:365806"
+                                },
+                                {
+                                    "k": "1622614696505449:886319",
+                                    "v": "1622614696505449:886319"
+                                },
+                                {
+                                    "k": "1622614696506267:886321",
+                                    "v": "1622614696506267:886321"
                                 }
                             ]
                         }
