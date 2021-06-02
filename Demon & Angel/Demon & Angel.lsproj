@@ -3,7 +3,7 @@
     "document_id": "1dcDO4P0CJitPJ0pMfym",
     "original_document_id": "DlgS-HW5JEU_mLq_inXF",
     "version": "27",
-    "lastChanged": "1622608354275",
+    "lastChanged": "1622610049973",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -31,6 +31,9 @@
             "collapsedList": [
                 [
                     [
+                        "1601"
+                    ],
+                    [
                         "Echopark"
                     ],
                     [
@@ -48,9 +51,38 @@
                         "Empty"
                     ],
                     [
+                        "Hat_Horns"
+                    ],
+                    [
+                        "Hat_Horns",
+                        "Animations"
+                    ],
+                    [
+                        "Hat_Horns",
+                        "Hat_Horns"
+                    ],
+                    [
+                        "Hat_Horns",
+                        "Materials"
+                    ],
+                    [
+                        "Hat_Horns",
+                        "Materials",
+                        "Horn"
+                    ],
+                    [
+                        "Hat_Horns",
+                        "Meshes",
+                        "Horn"
+                    ],
+                    [
+                        "Night"
+                    ],
+                    [
                         "Portrait Background Segmentation"
                     ]
-                ]
+                ],
+                ""
             ]
         },
         "SceneTreeUiComponent": {
@@ -86,7 +118,7 @@
             "preview_videos_project_config": {
                 "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_id": "bundle:Preview\/Videos\/Smile Person 4.webm",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
                 "spectacles_preview_is_favorite": "false"
@@ -102,7 +134,9 @@
         },
         "InspectorUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    "1622609316174348:156303"
+                ]
             ]
         },
         "Material::UiComponent": {
@@ -164,12 +198,52 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "16",
-                    "uid": "1622608259675691:33088",
+                    "resId": "17",
+                    "uid": "1622608499036052:59878",
+                    "name": "Files\/File16.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1622609146413345:136296",
+                    "name": "Files\/File20.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1622609146674078:136330",
+                    "name": "Files\/File22",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1622609147327776:136393",
+                    "name": "Hat_Horns",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1622609706991568:206641",
                     "name": "Portrait Background Segmentation",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1622609728091937:209123",
+                    "name": "Files\/File27.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -198,11 +272,16 @@
                 "2": "1528843813151434:5126",
                 "3": "1622436002241561:14803",
                 "4": "1622436166563289:35901",
-                "5": "1622608299250974:38081"
+                "5": "1622609202572704:142585",
+                "6": "1622609316174348:156303",
+                "7": "1622609316179406:156323",
+                "8": "1622609641968866:197906",
+                "9": "1622609727000308:208947",
+                "10": "1622609727000773:208948"
             }
         },
         "LayerComponent": {
-            "nextLayerId": "2",
+            "nextLayerId": "3",
             "showOrthographicLayer": "false",
             "layersInfo": [
                 {
@@ -216,6 +295,12 @@
                     "layerName": "Orthographic Layer",
                     "layerMask": "1048576",
                     "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Layer 1",
+                    "layerMask": "2",
+                    "colorCode": "0"
                 }
             ]
         },
@@ -256,6 +341,58 @@
                 {
                     "k": "15",
                     "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.pvr"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.pvr"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.mesh"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.mesh"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.lsmat"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.oprfb"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.fbx"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.oprfb"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
                 }
             ]
         },
@@ -279,6 +416,26 @@
                     {
                         "k": "971",
                         "v": "Empty.png"
+                    },
+                    {
+                        "k": "972",
+                        "v": "1601.png"
+                    },
+                    {
+                        "k": "973",
+                        "v": "Hat_Horns.fbx"
+                    },
+                    {
+                        "k": "974",
+                        "v": "..\/AdditionalFiles\/Hat_Horns\/Materials"
+                    },
+                    {
+                        "k": "975",
+                        "v": "..\/AdditionalFiles\/Hat_Horns\/Materials\/Horn.lsmat"
+                    },
+                    {
+                        "k": "976",
+                        "v": "Night.png"
                     }
                 ],
                 "hashes": [
@@ -309,15 +466,38 @@
                     {
                         "k": "971",
                         "v": "176ebd81a6145a98cc0464c9264b7fce"
+                    },
+                    {
+                        "k": "972",
+                        "v": "675966bff275d3055f2584e40ff48707"
+                    },
+                    {
+                        "k": "973",
+                        "v": "7c848f38c2583dfcd73b132770f05fe6"
+                    },
+                    {
+                        "k": "975",
+                        "v": "4b2f093626d271cbc49f07ac65d2436d"
+                    },
+                    {
+                        "k": "976",
+                        "v": "df2263cffd75f799d46a9ace1b4b03e5"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2021-06-02T11:29:43",
+                        "lastModified": "2021-06-02T11:55:28",
                         "name": "Public",
-                        "hash": "ebd4461e87ab50e8d3d82073b707734e",
+                        "hash": "16cf9d3688c4ffb8ee224424d8e28d6f",
                         "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-06-02T11:24:06",
+                                "name": "1601.png",
+                                "hash": "675966bff275d3055f2584e40ff48707",
+                                "children": ""
+                            },
                             {
                                 "isFolder": "false",
                                 "lastModified": "2021-04-06T06:10:56",
@@ -344,6 +524,20 @@
                                 "lastModified": "2021-04-06T06:10:56",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-02-06T06:18:30",
+                                "name": "Hat_Horns.fbx",
+                                "hash": "7c848f38c2583dfcd73b132770f05fe6",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-04-06T06:10:42",
+                                "name": "Night.png",
+                                "hash": "df2263cffd75f799d46a9ace1b4b03e5",
                                 "children": ""
                             }
                         ]
@@ -375,7 +569,11 @@
                         "originalId": "18446744073709551615",
                         "publicId": "18446744073709551615",
                         "source": "",
-                        "additional": ""
+                        "additional": {
+                            "resourceInfoExportKey": {
+                                "RenderTargetRole": "1"
+                            }
+                        }
                     },
                     {
                         "name": "Device Camera Texture",
@@ -458,23 +656,158 @@
                         "additional": ""
                     },
                     {
+                        "name": "1601",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "17",
+                        "dependency": "0",
+                        "uid": "1622608499036052:59878",
+                        "fileId": "16",
+                        "originalId": "17",
+                        "publicId": "972",
+                        "source": "D:\/Desain\/1601.m10.i307.n028.p.c20.157562519 devil horns and angel halo. vector illustration [Converted].png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Hat_Horns",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "25",
+                        "originalId": "18446744073709551615",
+                        "publicId": "973",
+                        "source": "C:\/Users\/Yue_X\/Downloads\/devil-horns\/source\/Hat_Horns.fbx",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Horn",
+                                    "v": "1622609146674078:136330"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Horn",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "18",
+                                        "dependency": "1",
+                                        "uid": "1622609146413345:136296",
+                                        "fileId": "20",
+                                        "originalId": "21",
+                                        "publicId": "18446744073709551615",
+                                        "source": "C:\/Users\/Yue_X\/AppData\/Local\/Temp\/Lens Studio-HsHGjS\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "974",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Horn",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "19",
+                                        "dependency": "0",
+                                        "uid": "1622609146674078:136330",
+                                        "fileId": "22",
+                                        "originalId": "23",
+                                        "publicId": "975",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hat_Horns",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "20",
+                                "dependency": "1",
+                                "uid": "1622609147327776:136393",
+                                "fileId": "24",
+                                "originalId": "26",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
                         "name": "Portrait Background Segmentation",
                         "type": "1",
                         "subtype": "14",
-                        "resourceId": "16",
+                        "resourceId": "22",
                         "dependency": "0",
-                        "uid": "1622608259675691:33088",
+                        "uid": "1622609706991568:206641",
                         "fileId": "18446744073709551615",
                         "originalId": "18446744073709551615",
                         "publicId": "18446744073709551615",
                         "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Night",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "23",
+                        "dependency": "0",
+                        "uid": "1622609728091937:209123",
+                        "fileId": "27",
+                        "originalId": "28",
+                        "publicId": "976",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Night.png",
                         "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "objects": [
+                    "1622436166563289:35901"
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
@@ -509,10 +842,61 @@
             "state": {
                 "objectToInfo": ""
             },
-            "importInfo": ""
+            "importInfo": [
+                {
+                    "k": "1622609147327776:136393",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1622609147320321:136377"
+                        },
+                        {
+                            "k": [
+                                "Horn"
+                            ],
+                            "v": "1622609147322136:136379"
+                        },
+                        {
+                            "k": [
+                                "Horn",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1622609147323124:136381"
+                        }
+                    ]
+                }
+            ]
         },
         "Compression::IController": {
-            "compression_info": ""
+            "compression_info": [
+                {
+                    "k": "1622608499036052:59878",
+                    "v": {
+                        "infos": {
+                            "originalSize": "153813",
+                            "compressedSize": "76594",
+                            "originalRAM": "4266412",
+                            "compressedRAM": "535768",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "18",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "675966bff275d3055f2584e40ff48707",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "19"
+                            }
+                        ]
+                    }
+                }
+            ]
         },
         "AssetLibController": {
             "itemUidToID": ""

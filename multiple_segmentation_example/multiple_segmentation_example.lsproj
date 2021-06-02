@@ -1,0 +1,1076 @@
+{
+    "lens_id": "",
+    "document_id": "ZcPS7XyWi6yAEHCfJfu2",
+    "original_document_id": "ZcPS7XyWi6yAEHCfJfu2",
+    "version": "1",
+    "lastChanged": "1542156694792",
+    "preview": "",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Camera Textures"
+                    ],
+                    [
+                        "Camera Textures",
+                        "Camera Hair Output"
+                    ],
+                    [
+                        "Camera Textures",
+                        "Orthographic Camera Hair Output"
+                    ],
+                    [
+                        "Camera Textures",
+                        "Orthographic Camera Portrait Output"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "Box"
+                    ],
+                    [
+                        "Segmentation Textures"
+                    ],
+                    [
+                        "Segmentation Textures",
+                        "Portrait Background Segmentation"
+                    ],
+                    [
+                        "Segmentation Textures",
+                        "Portrait Hair Segmentation"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "cyan"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_spec"
+                    ],
+                    [
+                        "Textures",
+                        "pink"
+                    ],
+                    [
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "ExampleTweenValueScript "
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Materials"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Materials",
+                        "TweenBoxDiffuse "
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Materials",
+                        "TweenBoxDiffuse_Alt "
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Materials",
+                        "TweenSphereDiffuse"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Meshes"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Meshes",
+                        "TweenSphere "
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Textures"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Textures",
+                        "TweenBoxTextures"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Textures",
+                        "TweenBoxTextures",
+                        "Base"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Textures",
+                        "TweenBoxTextures",
+                        "DiffuseEnvmap"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Textures",
+                        "TweenBoxTextures",
+                        "Normal"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Textures",
+                        "TweenSphereTextures"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Textures",
+                        "TweenSphereTextures",
+                        "Base"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "Textures",
+                        "TweenSphereTextures",
+                        "Normal"
+                    ],
+                    [
+                        "Tween",
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "TweenManager"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenAlpha"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenBillboard"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenChain"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenColor"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenTransform"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenValue"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1517446348227994:84813",
+                    "1542156074991146:89275",
+                    "1542156135002545:89702",
+                    "1542156152397700:91328"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false",
+            "show_snap_ui": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "2",
+                    "v": "0"
+                },
+                {
+                    "k": "3",
+                    "v": "1"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1542156100364621:89543",
+                    "name": "Camera Hair Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1542156135005477:89797",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1542156135106090:89940",
+                    "name": "\/Resources\/Resource13",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1542156152397834:91348",
+                    "name": "\/Resources\/Resource13",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1542156180162044:91953",
+                    "name": "Orthographic Camera Hair Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1542156227224093:92384",
+                    "name": "\/system\/\/SegmentationModels\/PortraitSegmentation\/",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "2",
+                    "type": "16",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1542156227224085:92382",
+                    "name": "Portrait Hair Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "11"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1542156233965149:92412",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "11"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1542156312068965:92562",
+                    "name": "\/Resources\/Resource19.png",
+                    "sourceFilePath": "\/Users\/travis.chen\/Desktop\/cyan.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1542156312125430:92573",
+                    "name": "\/Resources\/Resource20.png",
+                    "sourceFilePath": "\/Users\/travis.chen\/Desktop\/pink.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1542156444326844:99574",
+                    "name": "\/Resources\/Resource21.mesh",
+                    "sourceFilePath": "\/Users\/anton.krasnokutskiy\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Box.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1542156444362574:99586",
+                    "name": "\/Resources\/Resource22",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1542156444365722:99598",
+                    "name": "\/Resources\/Resource23.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1542156444369422:99610",
+                    "name": "\/Resources\/Resource24.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1542156444372083:99622",
+                    "name": "\/Resources\/Resource25.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1542156515769098:103101",
+                    "name": "\/Resources\/Resource22",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1542156544953148:104860",
+                    "name": "\/Resources\/Resource27.js",
+                    "sourceFilePath": "\/Users\/travis.chen\/Desktop\/Tween.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1542156544956516:104872",
+                    "name": "\/Resources\/Resource28.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1542156544959648:104884",
+                    "name": "\/Resources\/Resource29.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1542156544995994:104897",
+                    "name": "\/Resources\/Resource30",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1542156544999326:104909",
+                    "name": "\/Resources\/Resource31.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1542156545001430:104921",
+                    "name": "\/Resources\/Resource32.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1542156545003619:104933",
+                    "name": "\/Resources\/Resource33.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1542156545008356:104945",
+                    "name": "\/Resources\/Resource34.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1542156545042759:104957",
+                    "name": "\/Resources\/Resource35",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1542156545048457:104969",
+                    "name": "\/Resources\/Resource36.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1542156545052103:104981",
+                    "name": "\/Resources\/Resource37.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1542156545056299:104993",
+                    "name": "\/Resources\/Resource38.js",
+                    "sourceFilePath": "\/Users\/corvyn.kusuma\/Snapchat\/studio3d-support\/helper_scripts\/Tween\/TestProject\/Public\/Tween\/TweenTypes\/GenericTween.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1542156545060645:105005",
+                    "name": "\/Resources\/Resource39.js",
+                    "sourceFilePath": "\/Users\/corvyn.kusuma\/Snapchat\/studio3d-support\/helper_scripts\/Tween\/TestProject\/Public\/Tween\/TweenTypes\/TweenChain.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1542156545095686:105017",
+                    "name": "\/Resources\/Resource40",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1542156545098980:105029",
+                    "name": "\/Resources\/Resource41.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1542156545101153:105041",
+                    "name": "\/Resources\/Resource42.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1542156545103468:105053",
+                    "name": "\/Resources\/Resource43.mesh",
+                    "sourceFilePath": "\/Users\/anton.krasnokutskiy\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Sphere.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1542156545106602:105065",
+                    "name": "\/Resources\/Resource44.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "AudioEffectComponent": {
+                    "presetsMap": "",
+                    "samplesMap": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1542156074991146:89275",
+                "4": "1542156135002545:89702",
+                "5": "1542156135005637:89806",
+                "6": "1542156135005821:89809",
+                "7": "1542156152397700:91328",
+                "8": "1542156152397755:91335",
+                "9": "1542156152397761:91338",
+                "10": "1542156444319871:99568",
+                "11": "1542156515769043:103095",
+                "12": "1542156544943606:104376"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "4",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "segmentationPortrait",
+                    "layerMask": "2"
+                },
+                {
+                    "layerId": "3",
+                    "layerName": "segementationHair",
+                    "layerMask": "4"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Tween",
+                        "groups": [
+                            {
+                                "name": "TweenTypes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "TweenTransform",
+                                        "resourceId": "28",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenColor",
+                                        "resourceId": "34",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenAlpha",
+                                        "resourceId": "36",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenBillboard",
+                                        "resourceId": "37",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenValue",
+                                        "resourceId": "38",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenChain",
+                                        "resourceId": "39",
+                                        "extension": "js"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "ExampleResources [REMOVE_ME]",
+                                "groups": [
+                                    {
+                                        "name": "Materials",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "TweenBoxDiffuse ",
+                                                "resourceId": "30",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "TweenBoxDiffuse_Alt ",
+                                                "resourceId": "35",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "TweenSphereDiffuse",
+                                                "resourceId": "40",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Textures",
+                                        "groups": [
+                                            {
+                                                "name": "TweenBoxTextures",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Base",
+                                                        "resourceId": "31",
+                                                        "extension": "png"
+                                                    },
+                                                    {
+                                                        "name": "DiffuseEnvmap",
+                                                        "resourceId": "32",
+                                                        "extension": "png"
+                                                    },
+                                                    {
+                                                        "name": "Normal",
+                                                        "resourceId": "33",
+                                                        "extension": "png"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "TweenSphereTextures",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Base",
+                                                        "resourceId": "41",
+                                                        "extension": "png"
+                                                    },
+                                                    {
+                                                        "name": "Normal",
+                                                        "resourceId": "42",
+                                                        "extension": "png"
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "resources": ""
+                                    },
+                                    {
+                                        "name": "Meshes",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "TweenSphere ",
+                                                "resourceId": "43",
+                                                "extension": "mesh"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "resources": [
+                                    {
+                                        "name": "ExampleTweenValueScript ",
+                                        "resourceId": "44",
+                                        "extension": "js"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Tween",
+                                "resourceId": "27",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "TweenManager",
+                                "resourceId": "29",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "pink",
+                                "resourceId": "20",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "cyan",
+                                "resourceId": "19",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "resourceId": "9",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "resourceId": "8",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Box",
+                                "resourceId": "21",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Segmentation Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Portrait Hair Segmentation",
+                                "resourceId": "17",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Portrait Background Segmentation",
+                                "resourceId": "18",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Camera Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Camera Portrait Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Camera Hair Output",
+                                "resourceId": "10",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Orthographic Camera Portrait Output",
+                                "resourceId": "11",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Orthographic Camera Hair Output",
+                                "resourceId": "15",
+                                "extension": ""
+                            }
+                        ]
+                    }
+                ],
+                "resources": ""
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "Textures\/echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "Textures\/echopark_spec.png"
+                },
+                {
+                    "id": "19",
+                    "path": "Textures\/cyan.png"
+                },
+                {
+                    "id": "20",
+                    "path": "Textures\/pink.png"
+                },
+                {
+                    "id": "21",
+                    "path": "Meshes\/Box.mesh"
+                },
+                {
+                    "id": "27",
+                    "path": "Tween\/Tween.js"
+                },
+                {
+                    "id": "28",
+                    "path": "Tween\/TweenTypes\/TweenTransform.js"
+                },
+                {
+                    "id": "29",
+                    "path": "Tween\/TweenManager.js"
+                },
+                {
+                    "id": "31",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/Textures\/TweenBoxTextures\/Base.png"
+                },
+                {
+                    "id": "32",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/Textures\/TweenBoxTextures\/DiffuseEnvmap.png"
+                },
+                {
+                    "id": "33",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/Textures\/TweenBoxTextures\/Normal.png"
+                },
+                {
+                    "id": "34",
+                    "path": "Tween\/TweenTypes\/TweenColor.js"
+                },
+                {
+                    "id": "36",
+                    "path": "Tween\/TweenTypes\/TweenAlpha.js"
+                },
+                {
+                    "id": "37",
+                    "path": "Tween\/TweenTypes\/TweenBillboard.js"
+                },
+                {
+                    "id": "38",
+                    "path": "Tween\/TweenTypes\/TweenValue.js"
+                },
+                {
+                    "id": "39",
+                    "path": "Tween\/TweenTypes\/TweenChain.js"
+                },
+                {
+                    "id": "41",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/Textures\/TweenSphereTextures\/Base.png"
+                },
+                {
+                    "id": "42",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/Textures\/TweenSphereTextures\/Normal.png"
+                },
+                {
+                    "id": "43",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/Meshes\/TweenSphere .mesh"
+                },
+                {
+                    "id": "44",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/ExampleTweenValueScript .js"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
