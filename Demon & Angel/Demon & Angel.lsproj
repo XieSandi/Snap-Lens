@@ -3,7 +3,7 @@
     "document_id": "1dcDO4P0CJitPJ0pMfym",
     "original_document_id": "DlgS-HW5JEU_mLq_inXF",
     "version": "27",
-    "lastChanged": "1622610049973",
+    "lastChanged": "1622610690570",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -230,20 +230,20 @@
                     "flags": "0"
                 },
                 {
-                    "resId": "22",
-                    "uid": "1622609706991568:206641",
-                    "name": "Portrait Background Segmentation",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
                     "resId": "23",
                     "uid": "1622609728091937:209123",
                     "name": "Files\/File27.png",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1622610439051022:299342",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
                 }
             ],
             "MaterialUpdateManager": {
@@ -275,9 +275,9 @@
                 "5": "1622609202572704:142585",
                 "6": "1622609316174348:156303",
                 "7": "1622609316179406:156323",
-                "8": "1622609641968866:197906",
-                "9": "1622609727000308:208947",
-                "10": "1622609727000773:208948"
+                "8": "1622610636123862:323132",
+                "9": "1622610646266779:324034",
+                "10": "1622610646270866:324036"
             }
         },
         "LayerComponent": {
@@ -774,19 +774,6 @@
                         ]
                     },
                     {
-                        "name": "Portrait Background Segmentation",
-                        "type": "1",
-                        "subtype": "14",
-                        "resourceId": "22",
-                        "dependency": "0",
-                        "uid": "1622609706991568:206641",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "18446744073709551615",
-                        "source": "",
-                        "additional": ""
-                    },
-                    {
                         "name": "Night",
                         "type": "1",
                         "subtype": "9",
@@ -798,6 +785,19 @@
                         "publicId": "976",
                         "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Night.png",
                         "additional": ""
+                    },
+                    {
+                        "name": "Portrait Background Segmentation",
+                        "type": "1",
+                        "subtype": "14",
+                        "resourceId": "24",
+                        "dependency": "0",
+                        "uid": "1622610439051022:299342",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
                     }
                 ]
             }
@@ -805,7 +805,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1622436166563289:35901"
+                    "1622610646270866:324036"
                 ]
             }
         },
