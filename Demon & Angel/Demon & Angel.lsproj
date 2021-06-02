@@ -3,7 +3,7 @@
     "document_id": "1dcDO4P0CJitPJ0pMfym",
     "original_document_id": "DlgS-HW5JEU_mLq_inXF",
     "version": "27",
-    "lastChanged": "1622610690570",
+    "lastChanged": "1622611694020",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -31,7 +31,10 @@
             "collapsedList": [
                 [
                     [
-                        "1601"
+                        "Angel"
+                    ],
+                    [
+                        "Demon"
                     ],
                     [
                         "Echopark"
@@ -80,6 +83,29 @@
                     ],
                     [
                         "Portrait Background Segmentation"
+                    ],
+                    [
+                        "Script Graph"
+                    ],
+                    [
+                        "angle crown"
+                    ],
+                    [
+                        "angle crown",
+                        "Animations"
+                    ],
+                    [
+                        "angle crown",
+                        "Meshes"
+                    ],
+                    [
+                        "angle crown",
+                        "Meshes",
+                        "Torus"
+                    ],
+                    [
+                        "angle crown",
+                        "angle crown"
                     ]
                 ],
                 ""
@@ -87,7 +113,10 @@
         },
         "SceneTreeUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    "1622436002241561:14803",
+                    "1622610636123862:323132"
+                ]
             ]
         },
         "MetaInfoUIComponent": {
@@ -143,7 +172,7 @@
             "active_graph_asset": "-1:-1"
         },
         "Script::UiComponent": {
-            "active_graph_asset": "-1:-1"
+            "active_graph_asset": "1622611120319735:385711"
         }
     },
     "model": {
@@ -198,14 +227,6 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "17",
-                    "uid": "1622608499036052:59878",
-                    "name": "Files\/File16.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "18",
                     "uid": "1622609146413345:136296",
                     "name": "Files\/File20.mesh",
@@ -244,6 +265,46 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1622610716396234:332902",
+                    "name": "Files\/File29.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1622610716675973:333035",
+                    "name": "angle crown ",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1622611120319735:385711",
+                    "name": "Files\/File34",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1622611589121468:442067",
+                    "name": "Angel",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1622611593094893:442851",
+                    "name": "Demon",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
                 }
             ],
             "MaterialUpdateManager": {
@@ -277,7 +338,8 @@
                 "7": "1622609316179406:156323",
                 "8": "1622610636123862:323132",
                 "9": "1622610646266779:324034",
-                "10": "1622610646270866:324036"
+                "10": "1622610646270866:324036",
+                "11": "1622610770182358:339865"
             }
         },
         "LayerComponent": {
@@ -343,22 +405,6 @@
                     "v": "Files\/File15.png"
                 },
                 {
-                    "k": "16",
-                    "v": "Files\/File16.pvr"
-                },
-                {
-                    "k": "17",
-                    "v": "Files\/File17.png"
-                },
-                {
-                    "k": "18",
-                    "v": "Files\/File18.png"
-                },
-                {
-                    "k": "19",
-                    "v": "Files\/File19.pvr"
-                },
-                {
                     "k": "20",
                     "v": "Files\/File20.mesh"
                 },
@@ -393,6 +439,50 @@
                 {
                     "k": "28",
                     "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.mesh"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.mesh"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.oprfb"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.fbx"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.oprfb"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.lsscript"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.oprfb"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.oprfb"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.oprfb"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.oprfb"
                 }
             ]
         },
@@ -418,10 +508,6 @@
                         "v": "Empty.png"
                     },
                     {
-                        "k": "972",
-                        "v": "1601.png"
-                    },
-                    {
                         "k": "973",
                         "v": "Hat_Horns.fbx"
                     },
@@ -436,6 +522,22 @@
                     {
                         "k": "976",
                         "v": "Night.png"
+                    },
+                    {
+                        "k": "977",
+                        "v": "angle crown.fbx"
+                    },
+                    {
+                        "k": "978",
+                        "v": "Script Graph.lsscript"
+                    },
+                    {
+                        "k": "979",
+                        "v": "Angel.oprfb"
+                    },
+                    {
+                        "k": "980",
+                        "v": "Demon.oprfb"
                     }
                 ],
                 "hashes": [
@@ -482,20 +584,50 @@
                     {
                         "k": "976",
                         "v": "df2263cffd75f799d46a9ace1b4b03e5"
+                    },
+                    {
+                        "k": "977",
+                        "v": "42499836aa47ad79c348c42cf1725f2c"
+                    },
+                    {
+                        "k": "978",
+                        "v": "7e331d503a61bb78beaf41d97cdb0ede"
+                    },
+                    {
+                        "k": "979",
+                        "v": "214de0cc7238e6698584a341024c5bc2"
+                    },
+                    {
+                        "k": "980",
+                        "v": "b5458b5a0c6d15ec96341b6a449aeeb3"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2021-06-02T11:55:28",
+                        "lastModified": "2021-06-02T12:27:00",
                         "name": "Public",
-                        "hash": "16cf9d3688c4ffb8ee224424d8e28d6f",
+                        "hash": "437c632b5ee44e17332ecbc40e04b5d1",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2021-06-02T11:24:06",
-                                "name": "1601.png",
-                                "hash": "675966bff275d3055f2584e40ff48707",
+                                "lastModified": "2021-06-02T12:26:29",
+                                "name": "Angel.oprfb",
+                                "hash": "214de0cc7238e6698584a341024c5bc2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-05-05T10:39:18",
+                                "name": "angle crown.fbx",
+                                "hash": "42499836aa47ad79c348c42cf1725f2c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-06-02T12:26:34",
+                                "name": "Demon.oprfb",
+                                "hash": "b5458b5a0c6d15ec96341b6a449aeeb3",
                                 "children": ""
                             },
                             {
@@ -538,6 +670,13 @@
                                 "lastModified": "2021-04-06T06:10:42",
                                 "name": "Night.png",
                                 "hash": "df2263cffd75f799d46a9ace1b4b03e5",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-06-02T12:26:58",
+                                "name": "Script Graph.lsscript",
+                                "hash": "7e331d503a61bb78beaf41d97cdb0ede",
                                 "children": ""
                             }
                         ]
@@ -653,19 +792,6 @@
                         "originalId": "15",
                         "publicId": "971",
                         "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/post_effects\/Empty.png",
-                        "additional": ""
-                    },
-                    {
-                        "name": "1601",
-                        "type": "1",
-                        "subtype": "9",
-                        "resourceId": "17",
-                        "dependency": "0",
-                        "uid": "1622608499036052:59878",
-                        "fileId": "16",
-                        "originalId": "17",
-                        "publicId": "972",
-                        "source": "D:\/Desain\/1601.m10.i307.n028.p.c20.157562519 devil horns and angel halo. vector illustration [Converted].png",
                         "additional": ""
                     },
                     {
@@ -798,6 +924,117 @@
                         "publicId": "18446744073709551615",
                         "source": "",
                         "additional": ""
+                    },
+                    {
+                        "name": "angle crown",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "32",
+                        "originalId": "18446744073709551615",
+                        "publicId": "977",
+                        "source": "C:\/Users\/Yue_X\/Downloads\/angel-crown-wael-tsar\/source\/angle crown .fbx",
+                        "additional": {
+                            "materialMapping": ""
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Torus",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "25",
+                                        "dependency": "1",
+                                        "uid": "1622610716396234:332902",
+                                        "fileId": "29",
+                                        "originalId": "30",
+                                        "publicId": "18446744073709551615",
+                                        "source": "C:\/Users\/Yue_X\/AppData\/Local\/Temp\/Lens Studio-rOKKzr\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "angle crown",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "26",
+                                "dependency": "1",
+                                "uid": "1622610716675973:333035",
+                                "fileId": "31",
+                                "originalId": "33",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Script Graph",
+                        "type": "4",
+                        "subtype": "1",
+                        "resourceId": "27",
+                        "dependency": "0",
+                        "uid": "1622611120319735:385711",
+                        "fileId": "34",
+                        "originalId": "35",
+                        "publicId": "978",
+                        "source": "C:\/Users\/Yue_X\/AppData\/Local\/Temp\/Lens Studio-rOKKzr\/\/system\/\/emergencyFiles\/emergencyGraph.lsscript",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Angel",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "28",
+                        "dependency": "0",
+                        "uid": "1622611589121468:442067",
+                        "fileId": "36",
+                        "originalId": "37",
+                        "publicId": "979",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Demon",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "29",
+                        "dependency": "0",
+                        "uid": "1622611593094893:442851",
+                        "fileId": "38",
+                        "originalId": "39",
+                        "publicId": "980",
+                        "source": "",
+                        "additional": ""
                     }
                 ]
             }
@@ -805,7 +1042,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1622610646270866:324036"
+                    "101:100"
                 ]
             }
         },
@@ -840,7 +1077,126 @@
         },
         "ObjectPrefabController": {
             "state": {
-                "objectToInfo": ""
+                "objectToInfo": [
+                    {
+                        "k": "1622436002241561:14803",
+                        "v": {
+                            "prefab": "1622611593094893:442851",
+                            "isActive": "false",
+                            "mapping": [
+                                {
+                                    "k": "1622436002241561:14803",
+                                    "v": "1622436002241561:14803"
+                                },
+                                {
+                                    "k": "1622436166563289:35901",
+                                    "v": "1622436166563289:35901"
+                                },
+                                {
+                                    "k": "1622436166563715:35902",
+                                    "v": "1622436166563715:35902"
+                                },
+                                {
+                                    "k": "1622609202572704:142585",
+                                    "v": "1622609202572704:142585"
+                                },
+                                {
+                                    "k": "1622609211532313:143366",
+                                    "v": "1622609211532313:143366"
+                                },
+                                {
+                                    "k": "1622609316174348:156303",
+                                    "v": "1622609316174348:156303"
+                                },
+                                {
+                                    "k": "1622609316174780:156304",
+                                    "v": "1622609316174780:156304"
+                                },
+                                {
+                                    "k": "1622609316179406:156323",
+                                    "v": "1622609316179406:156323"
+                                },
+                                {
+                                    "k": "1622609316179759:156324",
+                                    "v": "1622609316179759:156324"
+                                },
+                                {
+                                    "k": "1622610636123862:323132",
+                                    "v": "1622610636123862:323132"
+                                },
+                                {
+                                    "k": "1622610646266779:324034",
+                                    "v": "1622610646266779:324034"
+                                },
+                                {
+                                    "k": "1622610646270866:324036",
+                                    "v": "1622610646270866:324036"
+                                },
+                                {
+                                    "k": "1622610646926279:324133",
+                                    "v": "1622610646926279:324133"
+                                },
+                                {
+                                    "k": "1622610646931753:324145",
+                                    "v": "1622610646931753:324145"
+                                },
+                                {
+                                    "k": "1622610770182358:339865",
+                                    "v": "1622610770182358:339865"
+                                },
+                                {
+                                    "k": "1622610777268963:340706",
+                                    "v": "1622610777268963:340706"
+                                },
+                                {
+                                    "k": "1622610975066954:365806",
+                                    "v": "1622610975066954:365806"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1622610636123862:323132",
+                        "v": {
+                            "prefab": "1622611589121468:442067",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1622610636123862:323132",
+                                    "v": "1622610636123862:323132"
+                                },
+                                {
+                                    "k": "1622610646266779:324034",
+                                    "v": "1622610646266779:324034"
+                                },
+                                {
+                                    "k": "1622610646270866:324036",
+                                    "v": "1622610646270866:324036"
+                                },
+                                {
+                                    "k": "1622610646926279:324133",
+                                    "v": "1622610646926279:324133"
+                                },
+                                {
+                                    "k": "1622610646931753:324145",
+                                    "v": "1622610646931753:324145"
+                                },
+                                {
+                                    "k": "1622610770182358:339865",
+                                    "v": "1622610770182358:339865"
+                                },
+                                {
+                                    "k": "1622610777268963:340706",
+                                    "v": "1622610777268963:340706"
+                                },
+                                {
+                                    "k": "1622610975066954:365806",
+                                    "v": "1622610975066954:365806"
+                                }
+                            ]
+                        }
+                    }
+                ]
             },
             "importInfo": [
                 {
@@ -864,39 +1220,59 @@
                             "v": "1622609147323124:136381"
                         }
                     ]
+                },
+                {
+                    "k": "1622610716675973:333035",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1622610716636321:332940"
+                        },
+                        {
+                            "k": [
+                                "Camera"
+                            ],
+                            "v": "1622610716645651:332953"
+                        },
+                        {
+                            "k": [
+                                "Camera",
+                                "Component.Camera"
+                            ],
+                            "v": "1622610716646794:332955"
+                        },
+                        {
+                            "k": [
+                                "Light"
+                            ],
+                            "v": "1622610716641699:332942"
+                        },
+                        {
+                            "k": [
+                                "Light",
+                                "Component.LightSource"
+                            ],
+                            "v": "1622610716642875:332944"
+                        },
+                        {
+                            "k": [
+                                "Torus"
+                            ],
+                            "v": "1622610716667799:333021"
+                        },
+                        {
+                            "k": [
+                                "Torus",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1622610716669327:333023"
+                        }
+                    ]
                 }
             ]
         },
         "Compression::IController": {
-            "compression_info": [
-                {
-                    "k": "1622608499036052:59878",
-                    "v": {
-                        "infos": {
-                            "originalSize": "153813",
-                            "compressedSize": "76594",
-                            "originalRAM": "4266412",
-                            "compressedRAM": "535768",
-                            "extension": "png",
-                            "settings": {
-                                "isCompressed": "true",
-                                "level": "2",
-                                "type": "1"
-                            }
-                        },
-                        "uncompressed_file": "18",
-                        "compressed_files": [
-                            {
-                                "k": {
-                                    "uncompressed_hash": "675966bff275d3055f2584e40ff48707",
-                                    "settings_hash": "2049"
-                                },
-                                "v": "19"
-                            }
-                        ]
-                    }
-                }
-            ]
+            "compression_info": ""
         },
         "AssetLibController": {
             "itemUidToID": ""
