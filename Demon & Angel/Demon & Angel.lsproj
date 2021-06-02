@@ -3,7 +3,7 @@
     "document_id": "1dcDO4P0CJitPJ0pMfym",
     "original_document_id": "DlgS-HW5JEU_mLq_inXF",
     "version": "27",
-    "lastChanged": "1622615072140",
+    "lastChanged": "1622615190231",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -127,7 +127,7 @@
             "hints": [
                 "lens_hint_tap"
             ],
-            "lens": "Angel adn Devil",
+            "lens": "Angel and Devil",
             "applicability": "3",
             "lens_descriptors": ""
         },
@@ -658,9 +658,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2021-06-02T13:20:45",
+                        "lastModified": "2021-06-02T13:24:30",
                         "name": "Public",
-                        "hash": "9676a6fd961e75967eea97dd1731119c",
+                        "hash": "480c3363254282584aaf906c7abdcef7",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -741,9 +741,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2021-04-06T06:10:40",
+                                "lastModified": "2021-06-02T13:24:30",
                                 "name": "tap to change.lsscript",
-                                "hash": "494eedf4f72b5b66abb42e77205506db",
+                                "hash": "cba6f9b7bedc5491003a3c01e21b0692",
                                 "children": ""
                             }
                         ]
@@ -1133,11 +1133,7 @@
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1622610636123862:323132"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
